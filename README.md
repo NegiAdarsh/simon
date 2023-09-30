@@ -17,7 +17,7 @@ Follow these steps to get the Simon Game project up and running on your local ma
 
 1. **Clone the repository** to your local system:
    ```bash
-   git clone https://github.com/your-username/simon-game.git
+   git clone https://github.com/NegiAdarsh/simon.git
 2. **Navigate to the project directory**:
 
 3. **Open the `index.html` file** in your web browser to start playing the game.
